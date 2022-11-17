@@ -1,0 +1,7 @@
+6
+AddMolecule    : "No texture"
+IncreaseBasics : "Elems/Textures/IncreaseBasics.bmp"
+DecreaseBasics : "Elems/Textures/DecreaseBasics.bmp"
+IncreaseSpeed  : "Elems/Textures/IncreaseBasics.bmp"
+DecreaseSpeed  : "Elems/Textures/DecreaseBasics.bmp"
+HeatWalls      : "No texture"
